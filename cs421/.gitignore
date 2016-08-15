@@ -1,0 +1,6 @@
+.stack-work
+stack.yaml
+*.swp
+*.swo
+*~
+.DS_Store
